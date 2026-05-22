@@ -1,5 +1,4 @@
 
-### 🎓 Estudante de Bacharelado em Inteligência Artificial - UNIFEI
 ### 🚀 Desenvolvedor Full Stack | Analista de Dados | DevOps
 
 Sou um desenvolvedor apaixonado por resolver problemas complexos através da tecnologia. Atualmente, foco meus estudos em **IA** e **Ciência de Dados**, enquanto construo aplicações robustas com o ecossistema **Node.js** e gerencio infraestruturas em **Linux**.
