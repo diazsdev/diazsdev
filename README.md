@@ -7,11 +7,11 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através da tec
 
 ### 🛠️ Minhas Tecnologias
 
-- **Linguagens:** Python, C++, TypeScript, JavaScript, PHP
-- **Web:** Node.js, Tailwind CSS, HTML5, CSS3
-- **Infra & DevOps:** Docker, Linux (Ubuntu), Apache, Análise de Redes
-- **Banco de Dados:** MySQL, Supabase, MongoDB, PostgreSQL
-- **Outros:** PCP (Planejamento e Controle da Produção)
+- **Linguagens:** Python, C++, TypeScript, JavaScript, PHP.
+- **Web:** Node.js, Tailwind CSS, HTML5, CSS3.
+- **Infra & DevOps:** Docker, Linux (Ubuntu/Debian), Apache, AWS, Microsoft Azure, Shell Script.
+- **Banco de Dados:** MySQL, Supabase, MongoDB, PostgreSQL.
+- **Outros:** PCP (Planejamento e Controle da Produção).
 
 [![Linkedin](https://img.shields.io/badge/-wandersondias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wandersondiass?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/wandersondiass?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail Badge](https://img.shields.io/badge/-diaszdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diaszdev@gmail.com)](mailto:w0nhtdev@gmail.com)
